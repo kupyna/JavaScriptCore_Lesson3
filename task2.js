@@ -1,3 +1,7 @@
+// .Використовуючи конструкцію if-else створіть зміннi login та password. 
+// Після присвоєння їм одного значень повинні відбуватись дії згідно блок-схеми малюнку JS-task-2.PNG (малюнок додано). 
+// Виводити в консоль
+
 var login = prompt ("Who's there?");
 if (login == "Admin"){
     var password = prompt ("Password?");
